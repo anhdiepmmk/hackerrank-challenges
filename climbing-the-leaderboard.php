@@ -10,7 +10,8 @@
  */
 
 function climbingLeaderboard($ranked, $player) {
-    // Write your code here$result = [];
+    // Write your code here
+    $result = [];
     $processedPlayersScores = [];
     $prevScore = null;
 
